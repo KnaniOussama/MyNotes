@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# This is a simple REACT JS app created to save/edit notes, this apps serves as a demo to what reactjs is and what is it capable of
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
